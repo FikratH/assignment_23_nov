@@ -1,0 +1,15 @@
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\bin\Debug\net6.0\assignment_23_nov.exe
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\bin\Debug\net6.0\assignment_23_nov.deps.json
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\bin\Debug\net6.0\assignment_23_nov.runtimeconfig.json
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\bin\Debug\net6.0\assignment_23_nov.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\bin\Debug\net6.0\assignment_23_nov.pdb
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.csproj.AssemblyReference.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.AssemblyInfoInputs.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.AssemblyInfo.cs
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\refint\assignment_23_nov.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.pdb
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\assignment_23_nov.genruntimeconfig.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_23_nov\assignment_23_nov\obj\Debug\net6.0\ref\assignment_23_nov.dll
